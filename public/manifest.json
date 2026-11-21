@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "SafeConnect – One Tap To Safety",
+  "short_name": "SafeConnect",
+  "description": "SafeConnect is an Emergency Alert and Safety Management System designed for students, women, senior citizens, and the public.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#050b1f",
+  "background_color": "#050b1f",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["safety", "utilities", "emergency"]
+}

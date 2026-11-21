@@ -1,0 +1,6 @@
+{
+  "name": "SafeConnect – One Tap To Safety",
+  "description": "SafeConnect is an Emergency Alert and Safety Management System designed for students, women, senior citizens, and the public.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
